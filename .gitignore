@@ -1,0 +1,8 @@
+www/node_modules
+.cordova
+merges
+platforms
+plugins
+www/js/bower_components
+www/res
+www/spec
