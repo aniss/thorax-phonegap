@@ -7,7 +7,6 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   var buffer = "", stack1, options, helperMissing=helpers.helperMissing, escapeExpression=this.escapeExpression;
 
 
-  buffer += " This is my application layout ";
   options = {hash:{
     'id': ("my-layout")
   },data:data};
